@@ -1,21 +1,3 @@
-#!/usr/bin/env bash
-#
-# Author:       Riccardo Mollo (riccardomollo84@gmail.com)
-#
-# Name:	        prepare_kali.sh
-#
-# Description:  A script that installs and configures useful packages on a
-#               minimal Kali Linux installation.
-#
-# Usage:        ./prepare_kali.sh
-#
-#
-# --TODO--
-# - ???
-#
-#
-################################################################################
-
 
 # VARIABLES --------------------------------------------------------------------
 
