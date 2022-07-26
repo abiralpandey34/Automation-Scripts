@@ -1,3 +1,3 @@
 This directory contains scripts that are to perform small tasks. 
 
-THe scripts available here is a collection of tools developed by me & useful tools i downloaded. 
+THe scripts available here is either developed by me and some were downloaded for my personal use. 
