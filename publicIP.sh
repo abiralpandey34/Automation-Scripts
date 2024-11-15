@@ -1,8 +1,8 @@
 #!/bin/bash
 
-# myip.enix.org replies our Public IP in response. A simple curl works wonder.
+# myip.enix.org replies with our Public. A simple curl works wonder.
 
-PUBLIC_IP=$(curl -s http://myip.enix.org/REMOTE_ADDR)
+PUBLIC_IP=$(curl -s http://myip.enix.org/REMOTE_ADDR) # May need to change link in future.
 
 #sleep .5
 
